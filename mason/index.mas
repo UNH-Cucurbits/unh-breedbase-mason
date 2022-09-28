@@ -1,0 +1,11 @@
+<%args>
+$schema
+$static_content_path => undef
+$show_accept_dialog => undef
+</%args>
+
+<center>
+<br/>
+<img src = "/static/img/unh-breedbase-img/home.jpg" width=80% />
+<br/>
+</center>
