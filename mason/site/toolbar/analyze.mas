@@ -15,5 +15,7 @@
     <!-- <li><a href="/tools/stability">Stability AMMI</a></li> -->
     <li><a href="/solgs/search/">Genomic Selection</a></li>
     <li><a href="/tools/solgwas">GWAS</a></li>
+    <li role="separator" class="divider"></li>     
+    <li><a href="/tools/onto">Ontology Browser</a></li>
   </ul>
 </li>
